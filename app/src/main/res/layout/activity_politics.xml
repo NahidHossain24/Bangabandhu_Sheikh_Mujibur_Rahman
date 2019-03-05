@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".Politics">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বঙ্গবন্ধুর রাজনীতি জীবন"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="মুজিবের রাজনৈতিক জীবন শুরু হয়েছিল ১৯৩৯ সালে মিশনারি স্কুলে পড়ার সময় থেকেই। এ বছর স্কুল পরিদর্শনে এসেছিলেন তদানীন্তন বেঙ্গল প্রেসিডেন্সি র মুখ্যমন্ত্রী শেরে বাংলা এ কে ফজলুল হক এবং পরবর্তিতে বাংলার প্রধানমন্ত্রী এবং এমনকি পাকিস্তানের প্রধানমন্ত্রীর দায়িত্ব পালনকারী হোসেন শহীদ সোহ্‌রাওয়ার্দী। তিনি স্কুলের ছাদ সংস্কারের দাবীর উপর ভিত্তি করে একটি দল নিয়ে তাদের কাছে যান যার নেতৃত্ব দিয়েছিলেন তিনি নিজেই। ১৯৪০ সালে নিখিল ভারত মুসলিম ছাত্র ফেডারেশনে যোগ দেন। সেখানে তিনি এক বছর মেয়াদের জন্য নির্বাচিত হয়েছিলেন। ১৯৪২ সনে এনট্র্যান্স পাশ করার পর কলকাতা ইসলামিয়া কলেজে (বর্তমান নাম মাওলানা আজাদ কলেজ) আইন পড়ার জন্য ভর্তি হন। কলকাতা বিশ্ববিদ্যালয়ের অধিভুক্ত এই কলেজটি তখন বেশ নামকরা ছিল। এই কলেজ থেকে সক্রিয়ভাবে ছাত্র রাজনীতি শুরু করেন। ১৯৪৩ সালে তিনি বেঙ্গল মুসলিম লীগে যোগ দেন এবং অগ্রণী কাশ্মিরী বংশদ্ভুত বাঙালি মুসলিম নেতা হুসেইন শহীদ সোহরাওয়ার্দীর সান্নিধ্যে আসেন।এখানে তার ছাত্র আন্দোলনের মুখ্য বিষয় ছিল একটি পৃথক মুসলিম রাষ্ট্র হিসেবে পাকিস্তান প্রতিষ্ঠার জন্য আন্দোলন। ১৯৪৩ সনে বঙ্গীয় মুসলিম লীগের কাউন্সিলর নির্বাচিত হন।
+
+১৯৪৪ সনে বর্তমান বাংলাদেশের কুষ্টিয়ায় নিখিল বঙ্গ মুসলিম ছাত্র লীগের সম্মেলন অনুষ্ঠিত হয়। এই সম্মেলনে শেখ মুজিব বিশেষ ভূমিকা পালন করেন। তিনি কলকাতায় বসবাসকারী ফরিদপুরবাসীদের নিয়ে তৈরি ফরিদপুর ডিস্ট্রিক্ট এসোসিয়েশনের সেক্রেটারি মনোনীত হন। এর দুই বছর পর ইসলামিয়া কলেজ ছাত্র ইউনিয়নের মহাসচিব নির্বাচিত হন। ১৯৪৭ সনে অর্থাৎ দেশবিভাগের বছর মুজিব কলকাতা বিশ্ববিদ্যালয়ের অধীনে ইসলামিয়া কলেজ থেকে বিএ ডিগ্রী লাভ করেন। ভারত ও পাকিস্তান পৃথক হওয়ার সময়ে কলকাতায় ভয়ানক হিন্দু-মুসলিম দাঙ্গা হয়। এসময় মুজিব মুসলিমদের রক্ষা এবং দাঙ্গা নিয়ন্ত্রণে আনার জন্য সোহরাওয়ার্দীর সাথে বিভিন্ন রাজনৈতিক তৎপরতায় শরিক হন।[৪]
+
+        পাকিস্তান-ভারত পৃথক হয়ে যাওয়ার পর শেখ মুজিব পূর্ব পাকিস্তানে ফিরে এসে ঢাকা বিশ্ববিদ্যালয়ের আইন বিভাগে ভর্তি হন। ১৯৪৮ সালের জানুয়ারি ৪ তারিখে প্রতিষ্ঠা করেন পূর্ব পাকিস্তান মুসলিম ছাত্র লীগ যার মাধ্যমে তিনি উক্ত প্রদেশের অন্যতম প্রধান ছাত্রনেতায় পরিণত হন। এ সময় সমাজতন্ত্রের দিকে ঝুঁকে পড়েন এবং দারিদ্র্য, বেকারত্ব ও জীবনযাত্রার নিম্নমানের উন্নয়নের জন্য এটিকেই একমাত্র সমাধান হিসেবে মনে করতে থাকেন।"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

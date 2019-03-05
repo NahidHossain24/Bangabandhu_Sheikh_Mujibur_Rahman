@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".nahid">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বঙ্গবন্ধুর জন্ম বিবরণী"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/white"
+        android:background="@color/green"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="১৭ মার্চ ১৯২০ \nটুঙ্গিপাড়া, বাংলা প্রেসিডেন্সি, ব্রিটিশ ভারত\n(বর্তমান বাংলাদেশ)"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:background="@color/redddd"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="পিতা-মাতা"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/white"
+        android:background="@color/green"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" পিতা: শেখ লুৎফর রহমান\nমাতা: সায়েরা খাতুন "
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:background="@color/bluedde"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ভাই-বোন"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/white"
+        android:background="@color/green"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ফাতেমা বেগম(বড় বোন)\nআছিয়া বেগম(মেজ বোন)\nহেলেন (সেজ বোন)\nলাইলী( ছোট বোন)\nশেখ আবু নাসের(ছোট ভাই )"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:background="@color/redddd"/>
+
+</LinearLayout>

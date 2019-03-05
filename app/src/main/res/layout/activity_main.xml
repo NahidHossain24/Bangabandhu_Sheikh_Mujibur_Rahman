@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/www"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বঙ্গবন্ধুর ব্যক্তিগত জীবন"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="জাতীয়তা:বাংলাদেশি"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="রাজনৈতিক দল"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বাংলাদেশ কৃষক শ্রমিক আওয়ামী লীগ (১৯৭৫)\n	নিখিল ভারত মুসলিম লীগ (১৯৪৯ সালের পূর্বে)\nআওয়ামী লীগ (১৯৪৯-১৯৭৫)"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="দাম্পত্য সঙ্গী"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বেগম ফজিলাতুন্নেসা"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সন্তান"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="শেখ হাসিনা\nশেখ রেহানা\nশেখ কামাল\nশেখ জামাল\nশেখ রাসেল"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+    </LinearLayout>
+
+</ScrollView>

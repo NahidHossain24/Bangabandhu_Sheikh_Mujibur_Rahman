@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/www"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".Child">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="মৃত্যু"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৫ আগস্ট ১৯৭৫ (৫৫ বছর)ঢাকা, বাংলাদেশ"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="১৯৭৫ সালের ১৫ আগস্ট প্রত্যূষে একদল তরুণ সেনা কর্মকর্তা ট্যাঙ্ক দিয়ে রাষ্ট্রপতির ধানমণ্ডিস্থ বাসভবন ঘিরে ফেলে এবং বঙ্গবন্ধু শেখ মুজিবুর রহমান, তাঁর পরিবার এবং তাঁর ব্যক্তিগত কর্মচারীদের হত্যা করে।[২][১৫] কেবল তাঁর দুই মেয়ে শেখ হাসিনা ও শেখ রেহানা পশ্চিম জার্মানিতে অবস্থান করার কারণে বেঁচে যান। তাদের বাংলাদেশে ফিরে আসার ব্যাপারে নিষেধাজ্ঞা জারি করা হয়।[২৫] সেনা অভ্যুত্থানের পরিকল্পনা করেন বিক্ষুব্ধ আওয়ামী লীগের সদস্য এবং সামরিক কর্মকর্তারা। এদের মধ্যে ছিলেন শেখ মুজিবের প্রাক্তন সহকর্মী খন্দকার মোশতাক আহমেদ, যিনি তাঁর স্থলাভিষিক্ত হন.
+
+সংকীর্ন রাজনৈতিক দৃষ্টিভংগীর অধিকারী খন্দকারকে অনেক রাজনৈতিক বিশ্লেষক,পাকিস্তানের ঘনিষ্ঠ চর বলে ও সন্দেহ করেন । পাকিস্তানের ভুট্টো সরকারই প্রথম স্বীকৃতি দিয়েছে এই নতুন সরকারকে[২৬]
+
+২৬ সেপ্টেম্বর, ১৯৭৫ তারিখে মুজিব হত্যাকাণ্ডের বিচারের ওপর নিষেধাজ্ঞা দিয়ে খন্দকার মোশতাক সরকার ইমডেমনিটি (দায়মুক্তি) অধ্যাদেশ জারি করেন এবং জেনারেল জিয়াউর রহমান ও পাকিস্তানপন্থী প্রধানমন্ত্রী শাহ আজিজুর রহমানের নেতৃত্বে সংবিধানের পঞ্চম সংশোধনীতে তার বৈধতা দেয়া হয়। যা ১২ অগাস্ট, ১৯৯৬ তারিখে সংসদে রহিত করা হয়।। সংবাদ মাধ্যমে এ হত্যা কান্ডের ইন্ধনদাতা হিসেবে যুক্তরাষ্ট্রের সেণ্ট্রাল ইণ্টেলিজেন্স এজেন্সি সিআইএ-কে দায়ী করা হয়।[২৭] বাংলাদেশে অবস্থিত তৎকালীন রাষ্ট্রদুত ইউজিন দিয়ে লরেন্স লিফসুল্জ সিআইএ-কে অভ্যুত্থান ও গণহত্যার জন্য দোষারোপ করেন।[২৮] তাঁর মরদেহ তাঁর জন্মস্থান টুঙ্গিপাড়ায় হেলিকপ্টারে করে নিয়ে যাওয়া হয় এবং সামরিক তত্ত্বাবধানে দাফন করা হয়। অন্যান্যদের ঢাকার বনানী কবরস্থানে দাফন করা হয়।
+
+মুজিবের মৃত্যু বাংলাদেশকে বহু বছরের রাজনৈতিক সংঘাতের দিকে টেনে নেয়। সেনাঅভ্যুত্থানের নেতারা অল্পদিনের মধ্যেই উচ্ছেদ হয়ে যান এবং অভ্যুত্থান, পাল্টা অভ্যুত্থান আর রাজনৈতিক হত্যাকাণ্ডে দেশ অচল হয়ে পড়ে। ১৯৭৫ সালের ৭ই নভেম্বর আরেকটি সেনা অভ্যুত্থানের ফলশ্রতিতে মেজর জেনারেল জিয়াউর রহমান ক্ষমতা আসীন হয়।
+
+সেনাঅভ্যুত্থানের অন্যতম প্রধান নেতা কর্নেল সৈয়দ ফারুক রহমানসহ ১৪ জন সেনা কর্মকর্তাকে গ্রেফতার করা হয়। বাকিরা বিদেশে পালিয়ে গিয়েছিলেন"
+            android:layout_gravity="center"
+            android:gravity="left"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/bluedde"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

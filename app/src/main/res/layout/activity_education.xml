@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        tools:context=".Education">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বঙ্গবন্ধুর শিক্ষা জীবন"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:background="@color/green"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="শেখ মুজিবুর রহমান তদানীন্তন ভারতীয় উপমহাদেশের বঙ্গ প্রদেশের অন্তর্ভুক্ত ফরিদপুর জেলার গোপালগঞ্জ মহকুমার পাটগাতি ইউনিয়নের টুঙ্গিপাড়া গ্রামে জন্মগ্রহণ করেন।[২] তার বাবা শেখ লুৎফর রহমান গোপালগঞ্জ দায়রা আদালতের সেরেস্তাদার (যিনি আদালতের হিসাব সংরক্ষণ করেন) ছিলেন এবং মা'র নাম সায়েরা খাতুন। চার কন্যা এবং দুই পুত্রের সংসারে তিনি ছিলেন তৃতীয় সন্তান। তার বড় বোন ফাতেমা বেগম, মেজ বোন আছিয়া বেগম, সেজ বোন হেলেন ও ছোট বোন লাইলী; তার ছোট ভাইয়ের নাম শেখ আবু নাসের। ১৯২৭ সালে শেখ মুজিব গিমাডাঙ্গা প্রাথমিক বিদ্যালয়ে পড়াশোনা শুরু করেন যখন তার বয়স সাত বছর। নয় বছর বয়সে তথা ১৯২৯ সালে গোপালগঞ্জ পাবলিক স্কুলে ভর্তি হন এবং এখানেই ১৯৩৪ সাল পর্যন্ত পড়াশোনা করেন। ১৯৩৭ সালে গোপালগঞ্জে মাথুরানাথ ইনস্টিটিউট মিশন স্কুলে সপ্তম শ্রেনীতে ভর্তি হন। ১৯৩৪ থেকে চার বছর তিনি বিদ্যালয়ের পাঠ চালিয়ে যেতে পারেন নি। কারণ তার চোখে জটিল রোগের কারণে সার্জারি করাতে হয়েছিল এবং এ থেকে সম্পূর্ণ সেরে উঠতে বেশ সময় লেগেছিল। গোপালগঞ্জ মিশনারি স্কুল থেকে তিনি ম্যাট্রিকুলেশন পাশ করেন।[৩] ১৯৩৮ সনে আঠারো বছর বয়সে তার সাথে ফজিলাতুন্নেসার বিয়ে হয়। এই দম্পতির ঘরে দুই কন্যা এবং তিন পুত্রের জন্ম হয়। কন্যারা হলেন শেখ হাসিনা এবং শেখ রেহানা। "
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:textSize="18sp"
+            android:layout_margin="8dp"
+            android:textColor="@color/black"
+            android:background="@color/redddd"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

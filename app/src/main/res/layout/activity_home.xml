@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/www"
+    android:orientation="vertical"
+    android:weightSum="7"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_birth"
+            android:text="জন্ম"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_education"
+            android:text="শিক্ষা জীবন"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_personal"
+            android:text="ব্যক্তিগত জীবন"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_politics"
+            android:text="রাজনীতি"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_mutkijuddho"
+            android:text="মুক্তিযুদ্ধ "
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_mrittu"
+            android:text="মৃত্যু"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_me"
+            android:text="ডেভেলপার"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="220dp"
+
+            android:layout_height="47dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#000000"
+            android:shadowDx="1"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
